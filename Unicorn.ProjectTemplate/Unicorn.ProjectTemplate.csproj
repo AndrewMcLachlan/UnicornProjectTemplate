@@ -49,7 +49,9 @@
   remove files here, you must also reference them in the ProjectTemplateTemplate.vstemplate file.
   -->
   <ItemGroup>
-    <None Include="Unicorn.uproj" />
+    <Content Include="Unicorn.uproj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <VSTemplate Include="Unicorn.vstemplate">
