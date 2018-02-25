@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Unicorn.ProjectType..f92dc577-ab28-4c3a-b15a-dbd051057e9c" Version="0.1" Language="en-US" Publisher="Andrew McLachlan" />
+        <Identity Id="Unicorn.ProjectType..f92dc577-ab28-4c3a-b15a-dbd051057e9c" Version="0.2" Language="en-US" Publisher="Andrew McLachlan" />
         <DisplayName>Unicorn Project Type</DisplayName>
         <Description xml:space="preserve">A template for creating a Sitecore Unicorn serialization project.</Description>
         <License>LICENSE</License>
+        <Icon>ProjectIcon.ico</Icon>
+        <PreviewImage>ProjectIcon.256.png</PreviewImage>
         <Tags>Sitecore, Unicorn</Tags>
     </Metadata>
     <Installation>
